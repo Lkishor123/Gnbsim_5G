@@ -1,6 +1,6 @@
 {
 	"GlobalGNBID": {
-		"mcc": 222,
+		"mcc": 901,
 		"mnc": 70,
 		"gnbid": 1
 	},
@@ -9,7 +9,7 @@
 			"TAC": "0x000001",
 			"BroadcastPLMNList": [
 				{
-					"MCC": 222,
+					"MCC": 901,
 					"MNC": 70,
 					"SliceSupportList": [
 						{
@@ -26,7 +26,7 @@
 	"UE": {
 		"imeisv": "0000000100000101",
 		"msin": "0123456789",
-		"mcc": 222,
+		"mcc": 901,
 		"mnc": 70,
 		"RoutingIndicator": 1234,
 		"ProtectionScheme": "null",
@@ -44,14 +44,14 @@
 	"ULInfoNR": {
 		"NRCGI": {
 			"PLMN": {
-				"mcc": 222,
+				"mcc": 901,
 				"mnc": 70
 			},
 			"NRCellID": 1
 		},
 		"TAI": {
 			"PLMN": {
-				"mcc": 222,
+				"mcc": 901,
 				"mnc": 70
 			},
 			"TAC": "0x000001"

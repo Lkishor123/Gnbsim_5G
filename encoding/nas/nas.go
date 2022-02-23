@@ -1708,7 +1708,7 @@ var pduSessionTypeStr = map[byte]string{
 
 func (ue *UE) encPDUSessionType() (pdu []byte) {
 	//	pdu = []byte{byte((ieiPDUSessionType << 4) | PDUSessionIPv4v6)}
-	pdu = []byte{byte((ieiPDUSessionType << 4) | PDUSessionIPv6)}
+	pdu = []byte{byte((ieiPDUSessionType << 4) | PDUSessionIPv4)}
 	return
 }
 

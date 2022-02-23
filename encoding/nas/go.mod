@@ -1,4 +1,4 @@
-module nas.go
+module github.com/Lkishor123/Gnbsim_5G/encoding/nas
 
 go 1.16
 
